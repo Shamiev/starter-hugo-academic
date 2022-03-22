@@ -37,7 +37,7 @@ education:
 superuser: true
 highlight_name: true
 title: Kirill Shamiev
-email: ""
+email: Shamiev_Kirill@phd.ceu.edu
 ---
 Kirill Shamiev is a policy analyst specializing in civil-military relations and security sector reforms. The core of his work is to conduct evidence-based analysis using quantitative (panel data, quantitative text analysis, quasi-experiments, big data and machine learning in R, Python, and Stata) and qualitative (text analysis, QCA, process tracing) methods.
 
