@@ -1,8 +1,8 @@
 ---
 title: Kirill Shamiev
 role: PhD candidate in Public Policy
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include security sector reforms, evidence-based
+  policymaking, and policy evaluation
 interests:
   - Artificial Intelligence
   - Computational Linguistics
