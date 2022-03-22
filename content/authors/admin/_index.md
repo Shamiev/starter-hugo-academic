@@ -4,9 +4,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include security sector reforms, evidence-based
   policymaking, and policy evaluation
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Policy Analysis
+  - Russian Politics
+  - Civil-Military Relations
 social:
   - icon: envelope
     icon_pack: fas
