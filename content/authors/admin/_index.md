@@ -1,6 +1,6 @@
 ---
 role: PhD candidate in Public Policy
-avatar_filename: 191183975_6102298766461848_7343696200262413849_n.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include security sector reforms, evidence-based
   policymaking, and policy evaluation
 interests:
