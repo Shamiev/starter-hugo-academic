@@ -40,7 +40,7 @@ experience:
     company: Higher School of Economics & European University in Saint Petersburg
     company_url: ''
     company_logo: org-x
-    location: California
+    location: Saint Petersburg, Russia
     date_start: '2020-01-01'
     date_end: '2021-05-31'
     description: Taught introduction to policy analysis for undergraduate (HSE) and graduate (EUSP) students.
