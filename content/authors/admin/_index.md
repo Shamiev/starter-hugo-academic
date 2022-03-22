@@ -13,30 +13,27 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/kirlant
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=vSCgOccAAAAJ&hl=en&oi=ao
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/kirillshamiev/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Central European University
+    url: https://www.ceu.edu
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Political Science, ABD
+      institution: "Central European University "
+      year: ""
+    - course: MA in Public Policy
+      institution: Central European University
+      year: 2018
+    - course: BA in Political Science
+      institution: Higher School of Economics
+      year: 2016
 email: ""
 superuser: true
 highlight_name: true
