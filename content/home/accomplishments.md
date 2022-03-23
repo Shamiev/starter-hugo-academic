@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.ceu.edu/sites/default/files/attachment/basic_page/13805/webawardforadvanceddoctoralstudents2022.pdf
   date_end: ""
-  date_start: "2022-02"
+  date_start: "2022-02-01"
   description: ""
   organization: Central European University
   organization_url: https://www.ceu.edu
@@ -41,7 +41,7 @@ item:
   url: ""
 - certificate_url: ""
   date_end: ""
-  date_start: "2021-03"
+  date_start: "2021-03-01"
   description: ""
   organization: Higher School of Economics
   organization_url: https://spb.hse.ru/en/
