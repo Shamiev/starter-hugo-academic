@@ -43,4 +43,4 @@ Kirill Shamiev is a policy analyst specializing in civil-military relations and 
 
 He is currently working as a consultant for the European Union at PPMi developing change programs in the EU. He is a member of the Inter-University Seminar on Armed Forces and Society and listed as an expert on Russia in Chatham House’s roster of scholars. He speaks Russian, English and learns German and French. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Shamiev_Public.pdf" "newtab" >}}CV{{< /staticref >}}.
